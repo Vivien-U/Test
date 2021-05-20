@@ -14,7 +14,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 import { ImpressumComponent } from './impressum/impressum.component';
 import { DatenschutzComponent } from './datenschutz/datenschutz.component';
 import { WiederrufsbelehrungComponent } from './wiederrufsbelehrung/wiederrufsbelehrung.component';
-import { AGBComponent } from './agb/agb.component';
+import { ConditionsComponent } from './conditions/conditions.component';
 import { LieferungComponent } from './Zahlung/lieferung/lieferung.component';
 import { FooterComponent } from './footer/footer.component';
 import { ProdukteComponent } from './produkte/produkte.component';
@@ -34,7 +34,7 @@ import { BetonFigurenComponent } from './beton-figuren/beton-figuren.component';
     ImpressumComponent,
     DatenschutzComponent,
     WiederrufsbelehrungComponent,
-    AGBComponent,
+    ConditionsComponent,
     LieferungComponent,
     FooterComponent,
     ProdukteComponent,

@@ -8,7 +8,7 @@ import { BasketComponent } from './basket/basket.component';
 import { ImpressumComponent } from './impressum/impressum.component';
 import { DatenschutzComponent } from './datenschutz/datenschutz.component';
 import { WiederrufsbelehrungComponent } from './wiederrufsbelehrung/wiederrufsbelehrung.component';
-import { AGBComponent } from './agb/agb.component';
+import { ConditionsComponent } from './conditions/conditions.component';
 import { LieferungComponent } from './Zahlung/lieferung/lieferung.component';
 import { ProdukteComponent } from './produkte/produkte.component';
 import { HolzprodukteComponent } from './holzprodukte/holzprodukte.component';
@@ -25,7 +25,7 @@ const routes: Routes = [
   { path: 'Impressum', component: ImpressumComponent },
   { path: 'Datenschutz', component: DatenschutzComponent },
   { path: 'Wiederrufsbelehrung', component: WiederrufsbelehrungComponent },
-  { path: 'AGB', component: AGBComponent },
+  { path: 'Conditions', component: ConditionsComponent },
   { path: 'Zahlung/Lieferung', component: LieferungComponent },
   { path: 'Produkte', component: ProdukteComponent },
   { path: 'Holzprodukte', component: HolzprodukteComponent },
