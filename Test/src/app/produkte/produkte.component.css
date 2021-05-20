@@ -1,0 +1,54 @@
+h3{
+    margin-top: 8%;
+    font-size: 2em;
+	color: rgb(10, 10, 10);
+	text-align: center;
+    font-style:oblique;
+    font-weight: bold;
+    text-decoration-line: underline;
+    }
+
+.row {
+    font-size: 1em;
+    color: rgb(10, 10, 10);
+    text-align: left;
+    font-style:oblique;
+    font-family: Verdana;
+    line-height: 2em;
+    max-width: 100%;
+}
+
+.card-body {
+    background-color: white;
+}
+
+#test {
+    font-size: 1em;
+    color: rgb(10, 10, 10);
+    text-align: left;
+    font-style:oblique;
+    line-height: 2em;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+.rowbild {   
+    max-width: 95%;
+    max-height: 95%;
+
+    max-width: 100%;
+  }
+
+.headline {   
+    -ms-flex: 50%;
+    flex: 50%;
+    background-color: rgb(205, 208, 212);
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+  }
+
+  .allgemein {   
+    background-color: darkgray;
+  }
